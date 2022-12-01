@@ -4,23 +4,11 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
-    "path": "^0.12.7",
-    "uniqid": "5.4.0"
-},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cykj40/Note-Taker-App.git"
-  },
-  "keywords": [],
-  "bugs": {
-    "url": "https://github.com/cykj40/Note-Taker-App/issues"
-  },
-  "homepage": "https://github.com/cykj40/Note-Taker-App#readme"
+    "express": "^4.16.4"
+  }
 }
